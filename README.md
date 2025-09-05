@@ -40,3 +40,7 @@ The goal is to build a predictive model that can assist in **early diagnosis** a
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn)
 - Jupyter Notebook
+
+## 🚀 Future Work
+- Expand dataset size for better generalization  
+- Explore deep learning (LSTMs for time-series voice data)
